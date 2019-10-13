@@ -415,3 +415,36 @@
 [submodule "lib/module/dexon-divip"]
 	path = lib/module/dexon-divip
 	url = https://github.com/bitfocus/companion-module-dexon-divip.git
+[submodule "lib/module/media-player-classic"]
+	path = lib/module/media-player-classic
+	url = https://github.com/bitfocus/companion-module-media-player-classic.git
+[submodule "lib/module/extron-smp111"]
+	path = lib/module/extron-smp111
+	url = https://github.com/bitfocus/companion-module-extron-smp111.git
+[submodule "lib/module/qlab-advance"]
+	path = lib/module/qlab-advance
+	url = https://github.com/bitfocus/companion-module-qlab-advance.git
+[submodule "lib/module/sonoran-coyote"]
+	path = lib/module/sonoran-coyote
+	url = https://github.com/bitfocus/companion-module-sonoran-coyote.git
+[submodule "lib/module/dexon-matrix"]
+	path = lib/module/dexon-matrix
+	url = https://github.com/bitfocus/companion-module-dexon-matrix.git
+[submodule "lib/module/analogway-livepremier"]
+	path = lib/module/analogway-livepremier
+	url = https://github.com/bitfocus/companion-module-analogway-livepremier.git
+[submodule "lib/module/joy-playdeck"]
+	path = lib/module/joy-playdeck
+	url = https://github.com/bitfocus/companion-module-joy-playdeck.git
+[submodule "lib/module/optoma-z28s"]
+	path = lib/module/optoma-z28s
+	url = https://github.com/bitfocus/companion-module-optoma-z28s.git
+[submodule "lib/module/novastar-vx4s"]
+	path = lib/module/novastar-vx4s
+	url = https://github.com/bitfocus/companion-module-novastar-vx4s.git
+[submodule "lib/module/avstumpfl-pixera"]
+	path = lib/module/avstumpfl-pixera
+	url = https://github.com/bitfocus/companion-module-avstumpfl-pixera.git
+[submodule "lib/module/avproconnect-acmx1616-auhd"]
+	path = lib/module/avproconnect-acmx1616-auhd
+	url = https://github.com/bitfocus/companion-module-avproconnect-acmx1616-auhd.git
